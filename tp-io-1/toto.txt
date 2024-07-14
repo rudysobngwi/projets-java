@@ -1,0 +1,4 @@
+abc=https://xxx.com
+xyz=http://www.google.com]
+Yahoo=http://wwww.yahoo.f
+abcdefghijklmnopqrst|www.google.com
